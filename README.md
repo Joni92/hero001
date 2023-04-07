@@ -1,5 +1,5 @@
 # hero001
-Hero title with background effect on click
+Title effect with background reveal on click
 
 ✅ Link GitHub Pages -> preview:  https://joni92.github.io/hero001/
 
